@@ -1,0 +1,37 @@
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    padding: 1%;
+    margin: 0;
+}
+
+.game-cover-art {
+    height: 250px;
+    margin-left: 67px;
+}
+
+p {
+    margin-left: 50px;
+    border: 3px solid #000000;
+    padding: 10px;
+    background-color: yellow;
+    max-width: 335px;
+}
+
+mark {
+    background-color: beige;
+}
+
+body {
+    background-image: url('rdr2\ screenshot.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
